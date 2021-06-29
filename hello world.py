@@ -10,7 +10,7 @@ while answer1 != "idk":
 
     answer1 = input()
     if answer1 == "idk":
-            print("candice um... carrot... fit in yo mouth")
+            print("candice dick fit in yo mouth")
     else:
             print("say idk")
 
